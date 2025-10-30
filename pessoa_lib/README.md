@@ -1,11 +1,11 @@
 # 📖 Pessoa Lib
 
 [![Status do
-Workflow](https://img.shields.io/github/actions/workflow/status/saraivagustavo/PersonAdressLib/deploy.yml?branch=main&style=for-the-badge)](https://github.com/saraivagustavo/PersonAdressLib/actions)
-[![PyPI](https://img.shields.io/pypi/v/saraivagustavo?style=for-the-badge)](https://pypi.org/project/saraivagustavo/)
+Workflow](https://img.shields.io/github/actions/workflow/status/saraivagustavo/PersonAdressLib/publish.yml?branch=main&style=for-the-badge)](https://github.com/saraivagustavo/PersonAdressLib/actions)
+[![PyPI](https://img.shields.io/pypi/v/saraivaPessoaLib?style=for-the-badge)](https://pypi.org/project/saraivaPessoaLib/)
 [![Versão do
-Python](https://img.shields.io/pypi/pyversions/saraivagustavo?style=for-the-badge)](https://pypi.org/project/saraivagustavo/)
-[![Licença](https://img.shields.io/pypi/l/saraivagustavo?style=for-the-badge)](https://pypi.org/project/saraivagustavo/)
+Python](https://img.shields.io/pypi/pyversions/saraivaPessoaLib?style=for-the-badge)](https://pypi.org/project/saraivaPessoaLib/)
+[![Licença](https://img.shields.io/pypi/l/saraivaPessoaLib?style=for-the-badge)](https://pypi.org/project/saraivaPessoaLib/)
 
 Esta é uma biblioteca Python para gerenciar **Pessoas** e seus
 respectivos **Endereços**. Originalmente desenvolvida como parte de um
