@@ -1,7 +1,7 @@
 # 📖 Pessoa Lib
 
 [![Status do
-Workflow](https://img.shields.io/github/actions/workflow/status/saraivagustavo/PersonAdressLib/deploy.yml?branch=main&style=for-the-badge)](https://github.com/saraivagustavo/PersonAdressLib/actions)
+Workflow](https://img.shields.io/github/actions/workflow/status/saraivagustavo/saraivaPessoaLib/deploy.yml?branch=main&style=for-the-badge)](https://github.com/saraivagustavo/PersonAdressLib/actions)
 [![PyPI](https://img.shields.io/pypi/v/saraivaPessoaLib?style=for-the-badge)](https://pypi.org/project/saraivaPessoaLib/)
 [![Versão do
 Python](https://img.shields.io/pypi/pyversions/saraivaPessoaLib?style=for-the-badge)](https://pypi.org/project/saraivaPessoaLib/)
