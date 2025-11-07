@@ -36,7 +36,7 @@ jobs: # definição dos jobs (tarefas) que serão executadas no workflow
 
       - name: Run tests for library
         run: |
-          pytest tests/
+          pytest TESTS/
   
   deploy-lib:
     name: 📦 Publish Persons and Adresses Lib to PyPI
