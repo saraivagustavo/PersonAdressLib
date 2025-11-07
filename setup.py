@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="PERSONADRESSsaraivagustavo",  # ⚡ Nome com hífen para o PyPI
-    version="0.1.1",
+    version="0.1.2",
     description="Biblioteca para gerenciamento de pessoas e endereços, utilizando banco de dados em memória com SQLModel.",
     long_description=long_description,
     long_description_content_type="text/markdown",

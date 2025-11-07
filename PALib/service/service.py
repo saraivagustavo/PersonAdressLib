@@ -1,7 +1,7 @@
 # app/services/base.py
 from typing import Generic, TypeVar, List, Any, Optional
 from sqlmodel import Session, SQLModel
-from PALib.repository import Repository, ModelT, CreateT, UpdateT
+from PALib.repository.base import Repository, ModelT, CreateT, UpdateT
 
 class Service(Generic[ModelT, CreateT, UpdateT]):
     def __init__(self, repo: Repository[ModelT, CreateT, UpdateT]): # recebe o repository que vai usar como parâmetro, o service não precisa saber detalhes de como o repository funciona, só precisa saber que ele tem os métodos certos e usar
